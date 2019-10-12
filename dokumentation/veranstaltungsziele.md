@@ -1,17 +1,19 @@
+# Veranstaltungsziele
+
 In diesem Abschnitt werden die Absichten der Lehrveranstaltung beschrieben.
 
 ## Kurzfristige Ziele
 
-### Semester-Projekt
+<b>Semester-Projekt</b>
 - Modellieren einer Küche (gegebenenfalls weitere Räume)
     - Entscheidungsgrund: Erleichtert Einstieg für Neulinge zu späterem Zeitpunkt 
 
 ## Langfristige Ziele
 
-### Primär-Ziele
+<b>Primär-Ziele</b>
 - Vorbereitung auf zukünftige GameJams
 - Schaffung eines weiteren Netzwerkes rund um Dresden
 
-### Sekundär-Ziele
+<b>Sekundär-Ziele</b>
 - Modellierung und Optimierung von 3D Assets für Spiele 
     - Während des Semester-Projektes wird es also kurze Auflockerungen geben!
