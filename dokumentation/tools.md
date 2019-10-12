@@ -1,4 +1,13 @@
-> [Home](../README.md) / Weitere Tools
+[Home](../README.md)/Weitere Tools
+<details>
+<summary>Navigation</summary>
+
+- [Veranstaltungsziele](./veranstaltungsziele.md)
+- [Git Grundlagen](./git_grundlagen.md)
+- [Blender Grundlagen](./blender_grundlagen.md)
+- [Themengebiete](./themengebiete.md)
+- [Liste zu modellierender Assets](./asset_liste.md)
+</details>
 
 # Weitere Tools
 
