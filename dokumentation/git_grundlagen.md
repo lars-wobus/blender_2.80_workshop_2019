@@ -1,3 +1,5 @@
+# Git Grundlagen
+
 In diesem Abschnitt wird nur ein grober Umriss über die wichtigsten Funktionen zur Datei-Versionierung mit Git gegeben. Auf die Behandlung von Branches, Merge-Konflikten u.ä. wird hier aus Zeitgründen verzichtet. Um solche Situation von vornherein zu vermeiden, sollte man Projektstände daher regelmäßig hochladen und auf all seinen Geräten immer vor der Bearbeitung den aktuellen Datei-Zustand herunterladen.
 
 Die Anwendung von Software zur Datei-Versionierung soll weitere Eindrücke in das Berufsleben vermitteln. Mit der Veröffentlichung von Projektständen soll zudem die Langzeitmotivation und das Selbstbewusstsein der Teilnehmern gestärkt werden. Darüber hinaus erlaubt es, die Fortschritte der Teilnehmer zu beobachten! Teilnehmer die dies nicht wünschen, können auf Git komplett verzichten oder private Projekte auf Github u.ä. Online-Diensten anlegen.
