@@ -1,10 +1,10 @@
 Home
-| [Veranstaltungsziele](./veranstaltungsziele.md)
-| [Git Grundlagen](./git_grundlagen.md)
-| [Blender Grundlagen](./blender_grundlagen.md)
-| [Themengebiete](./themengebiete.md)
-| [Liste zu modellierender Assets](./asset_liste.md)
-| [Weitere Tools](./tools.md)
+| [Veranstaltungsziele](./dokumentation/veranstaltungsziele.md)
+| [Git Grundlagen](./dokumentation/git_grundlagen.md)
+| [Blender Grundlagen](./dokumentation/blender_grundlagen.md)
+| [Themengebiete](./dokumentation/themengebiete.md)
+| [Liste zu modellierender Assets](./dokumentation/asset_liste.md)
+| [Weitere Tools](./dokumentation/tools.md)
 
 # Workshop: Blender 2.80
 
