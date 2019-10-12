@@ -4,7 +4,7 @@
 | [Blender Grundlagen](./blender_grundlagen.md)
 | [Themengebiete](./themengebiete.md)
 | [Liste zu modellierender Assets](./asset_liste.md)
-| [Weitere Tools](./tools.md)
+| Weitere Tools
 
 # Weitere Tools
 
