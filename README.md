@@ -1,7 +1,7 @@
 # Workshop: Blender 2.80
 
 ## Zusammenfassung
-Das Github Projekt soll als zentrale Organisations-Einheit für die erfolgreiche Durchführung eines Blender Workshops im SLUB Makerspace in Dresden im Wintersemester 2019 dienen.
+Das Github Projekt soll als zentrale Organisations-Einheit für die erfolgreiche Durchführung eines Blender Workshops im SLUB Makerspace in Dresden für das Wintersemester 2019 dienen.
 
 ## Vorraussetzungen
 In diesem Abschnitt werden alle notwendigen Maßnahmen beschrieben, die jeder Teilnehmer vor seinem ersten Besuch der Lehrveranstaltung vorzunehmen hat.
