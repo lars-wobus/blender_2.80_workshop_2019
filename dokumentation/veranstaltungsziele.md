@@ -1,5 +1,5 @@
 [Home](../README.md)
-| [Veranstaltungsziele](./veranstaltungsziele.md)
+| Veranstaltungsziele
 | [Git Grundlagen](./git_grundlagen.md)
 | [Blender Grundlagen](./blender_grundlagen.md)
 | [Themengebiete](./themengebiete.md)
