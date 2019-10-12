@@ -1,3 +1,5 @@
+> [Home](../README.md) / Themengebiete
+
 # Themengebiete
 
 In diesem Abschnitt werden spezifische Aufgabenbereiche und Schwerpunkte für angehende 3D Artists aufgelistet.
