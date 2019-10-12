@@ -22,6 +22,8 @@ In diesem Abschnitt soll eine Liste von Tools gepflegt werden, welche 3D Artists
 
 ## Projekt-Dokumentation
 - Kostenpflichtiges Tool: Confluence
+- Einfache Wikis lassen sich auch innerhalb von öffentlichen Github Projekten anlegen
+    - Aus diversen Gründen wurde übrigens in diesem Projekt darauf verzichtet
 
 ## Game-Engines/3D-Frameworks
 - Unity
