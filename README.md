@@ -30,3 +30,9 @@ In diesem Abschnitt werden alle notwendigen Maßnahmen beschrieben, die jeder Te
 - (Für Studenten) Mithilfe der Studentennummer kann man sich auch über eduroam einklinken.
 
 ## Weiterführende Informationen
+- [Veranstaltungsziele](./dokumentation/veranstaltungsziele.md)
+- [Git Grundlagen](./dokumentation/git_grundlagen.md)
+- [Blender Grundlagen](./dokumentation/blender_grundlagen.md)
+- [Themengebiete](./dokumentation/themengebiete.md)
+- [Liste zu modellierender Assets](./dokumentation/asset_liste.md)
+- [Weitere Tools](./dokumentation/tools.md)
