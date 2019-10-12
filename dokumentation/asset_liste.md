@@ -1,4 +1,6 @@
-In diesem Abschnitt wird eine Liste von Assets gepflegt, die zur Durchführung der Lehrveranstaltung relevant sein könnten. Primär soll es um Einrichtungsgegenstände gehen, die in einer typischen Küche zu finden sind.
+# Liste zu modellierender Assets
+
+In diesem Abschnitt wird eine Liste an Vorschlägen gepflegt, die man in der Lehrveranstaltung modellieren könnte. Primär soll es dabei um Einrichtungsgegenstände gehen, die in einer typischen Küche zu finden sind. Sollten unten den Teilnehmern sehr engagierte Personen sein oder welche, die den Kurs wiederholen möchten, so bietet es sich an die Liste um Einrichtungsgegenstände anderer Räume zu erweitern.
 
 ## Umgebung
 - Wand
