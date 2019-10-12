@@ -16,6 +16,7 @@ In diesem Abschnitt soll eine Liste von Tools gepflegt werden, welche 3D Artists
 
 ## Projekt-Organisation
 - Kostenpflichtiges Tool: Jira
+- Einfache KANBAN-Boards lassen sich auch innerhalb von Github Projekten über <i>Projects</i> anlegen
 
 ## Projekt-Dokumentation
 - Kostenpflichtiges Tool: Confluence
