@@ -1,13 +1,10 @@
-[Home](../README.md)/Weitere Tools
-<details>
-<summary>Navigation</summary>
-
-- [Veranstaltungsziele](./veranstaltungsziele.md)
-- [Git Grundlagen](./git_grundlagen.md)
-- [Blender Grundlagen](./blender_grundlagen.md)
-- [Themengebiete](./themengebiete.md)
-- [Liste zu modellierender Assets](./asset_liste.md)
-</details>
+[Home](../README.md)
+| [Veranstaltungsziele](./veranstaltungsziele.md)
+| [Git Grundlagen](./git_grundlagen.md)
+| [Blender Grundlagen](./blender_grundlagen.md)
+| [Themengebiete](./themengebiete.md)
+| [Liste zu modellierender Assets](./asset_liste.md)
+| [Weitere Tools](./tools.md)
 
 # Weitere Tools
 
