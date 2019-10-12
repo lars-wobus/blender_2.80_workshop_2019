@@ -1,3 +1,5 @@
+> [Home](../README.md) / Git Grundlagen
+
 # Git Grundlagen
 
 In diesem Abschnitt wird nur ein grober Umriss über die wichtigsten Funktionen zur Datei-Versionierung mit Git gegeben. Auf die Behandlung von Branches, Merge-Konflikten u.ä. wird hier aus Zeitgründen verzichtet. Um solche Situation von vornherein zu vermeiden, sollte man Projektstände daher regelmäßig hochladen und auf all seinen Geräten immer vor der Bearbeitung den aktuellen Datei-Zustand herunterladen.
