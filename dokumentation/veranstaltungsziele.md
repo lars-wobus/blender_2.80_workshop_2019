@@ -1,3 +1,5 @@
+> [Home](../README.md) / Veranstaltungsziele
+
 # Veranstaltungsziele
 
 In diesem Abschnitt werden die Absichten der Lehrveranstaltung beschrieben.
