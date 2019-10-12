@@ -51,11 +51,11 @@ In diesem Abschnitt werden alle notwendigen Maßnahmen beschrieben, die jeder Te
 | Datum         | Zeit  | Thema |
 | ------------- | ----- | ----- |
 | XX. Okt. 2019 | 00:00 | Grundlegende Navigation in Blender - Gemeinsames Aktivieren weiterer Blender Einstellungen - Primäre Shortcuts - Erstellen und manipulieren primitiver Objekte - Normalen - Shading - Extrusion - Loop Cuts - Bevel Edges - Bevel Modifier - Erstellen von Materialien - Grayboxing - <b>Einführung in Git</b> - Beginn des Semester-Projektes |
-| XX. Okt. 2019 | 00:00 | Einheitliche Objekt Benennung - Importieren von Referenz-Bildern - Wechseln der Perspektive - Nachziehen von Formen - Boolean Modifier - Array Modifier - Subdivision Surface Modifier - Kreise ausschneiden - Vorteil von LoopTools - Kitbashing - Objekt-Export - <b>Objekt-Import in Unity</b> - Kenntnisse vertiefen beim Modellieren eines Fantasy-Hammers |
-| XX. Okt. 2019 | 00:00 | <b>Kurzer Ausflug in Inkscape</b> - Import und Extrusion von SVG Grafiken - Extrusion von Text - Überblick zu Splines - Überblick zu MetaBalls - Überblick zu Sculpting - Weiteres zu Materialien - Vergabe von UVs - Überblick zu Texture Painting - Anwenden der erlernten Techniken am Fantasy-Hammer |
-| XX. Okt. 2019 | 00:00 | Lichtquellen und Schatten - Ambient Oclusion (kurz AO) backen - <b>Textur-Animation in Unity</b> - Keyframe Animation (Forwärts und Inverse Kinematik) |
-| XX. Okt. 2019 | 00:00 | <b>Kurzer Ausflug in MagicaVoxel</b> - Import von MagicaVoxel Assets in Blender - Scripting - Erzeugen von Voxel Modellen in Blender |
-| XX. Okt. 2019 | 00:00 | Vertiefung in Sculpting - <b>Kurzer Ausflug in InstantMeshes</b> - Remesh Modifier - Decimate Modifier - Multiresolution Modifier |
+|  |  | Einheitliche Objekt Benennung - Importieren von Referenz-Bildern - Wechseln der Perspektive - Nachziehen von Formen - Boolean Modifier - Array Modifier - Subdivision Surface Modifier - Kreise ausschneiden - Vorteil von LoopTools - Kitbashing - Objekt-Export - <b>Objekt-Import in Unity</b> - Kenntnisse vertiefen beim Modellieren eines Fantasy-Hammers |
+|  |  | <b>Kurzer Ausflug in Inkscape</b> - Import und Extrusion von SVG Grafiken - Extrusion von Text - Überblick zu Splines - Überblick zu MetaBalls - Überblick zu Sculpting - Weiteres zu Materialien - Vergabe von UVs - Überblick zu Texture Painting - Anwenden der erlernten Techniken am Fantasy-Hammer |
+|  |  | Lichtquellen und Schatten - Ambient Oclusion (kurz AO) backen - <b>Textur-Animation in Unity</b> - Keyframe Animation (Forwärts und Inverse Kinematik) |
+|  |  | <b>Kurzer Ausflug in MagicaVoxel</b> - Import von MagicaVoxel Assets in Blender - Scripting - Erzeugen von Voxel Modellen in Blender |
+|  |  | Vertiefung in Sculpting - <b>Kurzer Ausflug in InstantMeshes</b> - Remesh Modifier - Decimate Modifier - Multiresolution Modifier |
 
 ## Weiterführende Informationen
 - [Veranstaltungsziele](./dokumentation/veranstaltungsziele.md)
