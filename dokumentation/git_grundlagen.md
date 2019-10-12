@@ -1,4 +1,10 @@
-> [Home](../README.md) / Git Grundlagen
+[Home](../README.md)
+| [Veranstaltungsziele](./veranstaltungsziele.md)
+| Git Grundlagen
+| [Blender Grundlagen](./blender_grundlagen.md)
+| [Themengebiete](./themengebiete.md)
+| [Liste zu modellierender Assets](./asset_liste.md)
+| [Weitere Tools](./tools.md)
 
 # Git Grundlagen
 
