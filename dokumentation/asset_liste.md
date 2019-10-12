@@ -1,4 +1,10 @@
-> [Home](../README.md) / Liste zu modellierender Assets
+[Home](../README.md)
+| [Veranstaltungsziele](./veranstaltungsziele.md)
+| [Git Grundlagen](./git_grundlagen.md)
+| [Blender Grundlagen](./blender_grundlagen.md)
+| [Themengebiete](./themengebiete.md)
+| Liste zu modellierender Assets
+| [Weitere Tools](./tools.md)
 
 # Liste zu modellierender Assets
 
