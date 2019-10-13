@@ -26,6 +26,7 @@ In diesem Abschnitt werden alle notwendigen Maßnahmen beschrieben, die jeder Te
 
 ### Software
 - Blender 2.80
+    - Als primäre Sprache sollte English ausgewählt werden!
 - [Optional] Git v2.23.0 + Git LFS v2.8.0 zur  Dateiversionierung
 
 ### Accounts
@@ -38,24 +39,24 @@ In diesem Abschnitt werden alle notwendigen Maßnahmen beschrieben, die jeder Te
 - (Für Studenten) Mithilfe der Studentennummer kann man sich auch über eduroam einklinken.
 
 ## Veranstaltungshinweise
-- Der voraussichtliche Veranstaltungsort ist die Bereichsbibliothek DrePunct, Zellescher Weg 17, 01069 Dresden
-- Es ist geplant, dass alle Themen bis Weihnachten besprochen werden, sodass es zu keinen oder nur wenigen Konflikten mit Prüfungszeiten der Studenten kommt. Dies liegt allerdings sowohl an der Bereitschaft der Studenten sowie dem Fortschritt der gesamten Gruppe interessierter Zuhörer
+- Der voraussichtliche Veranstaltungsort ist die Bereichsbibliothek DrePunct, Zellescher Weg 17, 01069 Dresden!
+- Die Lehrveranstaltung wird in deutsch gehalten! Gegebenenfalls ließe sich das ein oder andere aber auch in Englisch besprechen.
+- Es ist geplant, dass alle Themen bis Weihnachten besprochen werden, sodass es zu keinen oder nur wenigen Konflikten mit Prüfungszeiten der Studenten kommt. Dies liegt allerdings sowohl an der Bereitschaft der Studenten sowie dem Fortschritt der gesamten Gruppe.
 - Themen die außerhalb von Blender stattfinden sind in der nachfolgenden Tabelle fett hervorgehoben!
-- Themen die zu einem Termin nicht besprochen werden konnten, werden zu Beginn des nächsten Termins besprochen!
-- Auch wenn nicht explizit erwähnt, werden wir über alle Termine hinweg unsere Küche verfeinern
-- Zu jedem Termin, wird es vorbereitete Blender-Projektstände der Küche geben, sodass ein späterer Einstieg möglich ist
-- Womöglich wird Unity durch Godot ersetzt, da die Installation weniger Zeit benötigt
+- Themen die zu einem Termin nicht besprochen werden konnten, werden zu Beginn des nächsten Termins diskutiert!
+- Zu jedem Termin, wird es, in diesem Repository, eine vorbereitete .blend-Datei der Küche geben, sodass ein späterer Einstieg möglich ist. Zuhörer der ersten Stunde, sollten idealerweise an ihren eigenen Küchen weiter arbeiten.
+- Womöglich wird Unity noch durch Godot ersetzt, da die Installation weniger Zeit benötigt.
 
 ## Veranstaltungstermine
 
 | Datum         | Zeit  | Thema |
 | ------------- | ----- | ----- |
-| XX. Okt. 2019 | 00:00 | Grundlegende Navigation in Blender - Gemeinsames Aktivieren weiterer Blender Einstellungen - Primäre Shortcuts - Erstellen und manipulieren primitiver Objekte - Normalen - Shading - Extrusion - Loop Cuts - Bevel Edges - Bevel Modifier - Erstellen von Materialien - Grayboxing - <b>Einführung in Git</b> - Beginn des Semester-Projektes |
-|  |  | Einheitliche Objekt Benennung - Importieren von Referenz-Bildern - Wechseln der Perspektive - Nachziehen von Formen - Boolean Modifier - Array Modifier - Subdivision Surface Modifier - Kreise ausschneiden - Vorteil von LoopTools - Kitbashing - Objekt-Export - <b>Objekt-Import in Unity</b> - Kenntnisse vertiefen beim Modellieren eines Fantasy-Hammers |
-|  |  | <b>Kurzer Ausflug in Inkscape</b> - Import und Extrusion von SVG Grafiken - Extrusion von Text - Überblick zu Splines - Überblick zu MetaBalls - Überblick zu Sculpting - Weiteres zu Materialien - Vergabe von UVs - Überblick zu Texture Painting - Anwenden der erlernten Techniken am Fantasy-Hammer |
-|  |  | Lichtquellen und Schatten - Ambient Oclusion (kurz AO) backen - <b>Textur-Animation in Unity</b> - Keyframe Animation (Forwärts und Inverse Kinematik) - Blend Shapes und Morphing Targets |
-|  |  | <b>Kurzer Ausflug in MagicaVoxel</b> - Import von MagicaVoxel Assets in Blender - Scripting - Erzeugen von Voxel Modellen in Blender |
-|  |  | Vertiefung in Sculpting - <b>Kurzer Ausflug in InstantMeshes</b> - Remesh Modifier - Decimate Modifier - Multiresolution Modifier |
+| XX. Okt. 2019 | 00:00 | Fokus: Beginn des Semester-Projektes <p></p> Grundlegende Navigation in Blender - Gemeinsames Aktivieren weiterer Blender Einstellungen - Primäre Shortcuts - Erstellen und manipulieren primitiver Objekte - Normalen - Shading - Extrusion - Loop Cuts - Bevel Edges - Bevel Modifier - Erstellen von Materialien - Grayboxing - <b>Einführung in Git</b> |
+|  |  | Fokus: Modellieren von LowPoly Tieren <p></p> Einheitliche Objekt Benennung - Importieren von Referenz-Bildern - Wechseln der Perspektive - Nachziehen von Formen - Boolean Modifier - Array Modifier - Subdivision Surface Modifier - Kreise ausschneiden - Vorteil von LoopTools - Kitbashing - Objekt-Export - <b>Objekt-Import in Unity</b> |
+|  |  | Fokus: Modellieren eines Fantasy-Hammers <p></p> <b>Kurzer Ausflug in Inkscape</b> - Import und Extrusion von SVG Grafiken - Extrusion von Text - Überblick zu Splines - Überblick zu MetaBalls - Überblick zu Sculpting - Weiteres zu Materialien - Vergabe von UVs - Überblick zu Texture Painting |
+|  |  | Fokus: Animation von Einrichtungsgegenständen (siehe Semester-Projekt) <p></p> Lichtquellen und Schatten - Ambient Oclusion (kurz AO) backen - <b>Textur-Animation in Unity</b> - Rigging - Keyframe Animation (Forwärts und Inverse Kinematik) - Blend Shapes und Morphing Targets |
+|  |  | Fokus: Erstellen von Voxel Modellen <p></p> <b>Kurzer Ausflug in MagicaVoxel</b> - Import von MagicaVoxel Assets in Blender - Scripting - Erzeugen von Voxel Modellen in Blender |
+|  |  | (Noch offen) <p></p> Vertiefung in Sculpting - <b>Kurzer Ausflug in InstantMeshes</b> - Remesh Modifier - Decimate Modifier - Multiresolution Modifier |
 
 ## Weiterführende Informationen
 - [Veranstaltungsziele](./dokumentation/veranstaltungsziele.md)
