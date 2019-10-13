@@ -59,6 +59,10 @@ Dieser Abschnitt ist primär als Checkliste zu verstehen. Sie entält alle wicht
 - Referenz-Bilder importieren
 - (Object Mode) Eltern-Kind-Beziehung festlegen: Strg + P
 - (Object) Transformationen anwenden: Strg+A
+- Box Select: B
+- Circle Select: C
+- (Edit Mode) Select Edge Loops: Alt + Linke Maustaste
+- Zu existierender Menge selektierter Objekte hinzufügen: Shift gedrückt halten + \<Shortcut\> 
 
 ## Perspektiven
 - User Perspective ↔ User Orthographic: 5
