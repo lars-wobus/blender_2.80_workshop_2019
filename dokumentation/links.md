@@ -11,6 +11,10 @@
 
 Dieser Abschnitt ist für all jene gedacht, die sich unabhängig von der Lehrveranstaltung weiterbilden möchten.
 
+## Allgemeines
+
+- [DreamWorks Animation Pipeline](https://www.youtube.com/watch?v=5CbG0d_tnSg&list=PLuNahFhjP4XhCzNmZvWiN0tG5MhEQMAtn)
+
 ## Blender 2.80
 
 - [Blender 2.80 Fundamentals](https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)
