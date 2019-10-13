@@ -9,6 +9,8 @@
 
 # Links
 
+Dieser Abschnitt ist für all jene gedacht, die sich unabhängig von der Lehrveranstaltung weiterbilden möchten.
+
 ## Blender
 
 - [Blender 2.79 Learning Path](https://www.linkedin.com/learning/paths/master-blender)
