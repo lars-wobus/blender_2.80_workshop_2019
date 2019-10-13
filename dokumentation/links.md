@@ -11,10 +11,14 @@
 
 Dieser Abschnitt ist für all jene gedacht, die sich unabhängig von der Lehrveranstaltung weiterbilden möchten.
 
-## Blender
+## Blender 2.80
 
-- [Blender 2.79 Learning Path](https://www.linkedin.com/learning/paths/master-blender)
 - [Blender 2.80 Fundamentals](https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)
+- [Tutorial: Low Poly Animals](https://www.youtube.com/watch?v=6mT4XFJYq-4)
+
+## Blender < 2.80
+
+- [Blender Learning Path](https://www.linkedin.com/learning/paths/master-blender)
 - [Blender Guru](https://www.blenderguru.com/tutorials) mit [Creating an Anvil](https://www.blenderguru.com/tutorials/2018/1/17/creating-an-anvil-full-series) is besonders einsteigerfreundlich
 - [Timelaps: Low Poly Wolf](https://www.youtube.com/watch?v=4rIEUv_Tiv4)
 - [Tutorial: Low Poly Elephant](https://www.youtube.com/watch?v=JjW6r10Mlqs)
