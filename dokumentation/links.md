@@ -15,6 +15,8 @@ Dieser Abschnitt ist für all jene gedacht, die sich unabhängig von der Lehrver
 
 - [Blender 2.80 Fundamentals](https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)
 - [Tutorial: Low Poly Animals](https://www.youtube.com/watch?v=6mT4XFJYq-4)
+- [Tutorial: Low Poly Island](https://www.youtube.com/watch?v=0lj643VmTsg&t=814s)
+- [Tutorial: Sculpting](https://www.youtube.com/watch?v=tZnUgt659oI)
 
 ## Blender < 2.80
 
