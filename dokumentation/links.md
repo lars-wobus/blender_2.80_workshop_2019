@@ -16,6 +16,8 @@ Dieser Abschnitt ist für all jene gedacht, die sich unabhängig von der Lehrver
 - [Blender 2.79 Learning Path](https://www.linkedin.com/learning/paths/master-blender)
 - [Blender 2.80 Fundamentals](https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)
 - [Blender Guru](https://www.blenderguru.com/tutorials) mit [Creating an Anvil](https://www.blenderguru.com/tutorials/2018/1/17/creating-an-anvil-full-series) is besonders einsteigerfreundlich
+- [Timelaps: Low Poly Wolf](https://www.youtube.com/watch?v=4rIEUv_Tiv4)
+- [Tutorial: Low Poly Elephant](https://www.youtube.com/watch?v=JjW6r10Mlqs)
     
 ## Discord
 
