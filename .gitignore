@@ -1,0 +1,7 @@
+*.stackdump
+*.zip
+*.7z
+
+/[Bb]uild/
+/[Bb]uilds/
+/[Dd]ist/
