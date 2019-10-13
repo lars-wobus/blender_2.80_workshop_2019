@@ -64,3 +64,4 @@ In diesem Abschnitt werden alle notwendigen Maßnahmen beschrieben, die jeder Te
 - [Themengebiete](./dokumentation/themengebiete.md)
 - [Liste zu modellierender Assets](./dokumentation/asset_liste.md)
 - [Weitere Tools](./dokumentation/tools.md)
+- [Links](./dokumentation/links.md)
