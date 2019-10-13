@@ -5,6 +5,7 @@
 | [Themengebiete](./themengebiete.md)
 | [Liste zu modellierender Assets](./asset_liste.md)
 | Weitere Tools
+| [Links](./links.md)
 
 # Weitere Tools
 
