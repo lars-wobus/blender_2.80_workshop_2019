@@ -62,7 +62,8 @@ Dieser Abschnitt ist primär als Checkliste zu verstehen. Sie entält alle wicht
 - Box Select: B
 - Circle Select: C
 - (Edit Mode) Select Edge Loops: Alt + Linke Maustaste
-- Zu existierender Menge selektierter Objekte hinzufügen: Shift gedrückt halten + \<Shortcut\> 
+- Zu existierender Menge selektierter Objekte hinzufügen: Shift gedrückt halten + \<Shortcut\>
+- Vertex Doubles entfernen (früher Remove Doubles): Mesh > Cleanup > Merge By Distance
 
 ## Perspektiven
 - User Perspective ↔ User Orthographic: 5
