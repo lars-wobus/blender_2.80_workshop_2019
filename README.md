@@ -56,7 +56,7 @@ In diesem Abschnitt werden alle notwendigen Maßnahmen beschrieben, die jeder Te
 |  |  | Fokus: Modellieren eines Fantasy-Hammers <p></p> Themen: <b>Kurzer Ausflug in Inkscape</b> - Import und Extrusion von SVG Grafiken - Extrusion von Text - Überblick zu Splines - Überblick zu MetaBalls - Überblick zu Sculpting - Weiteres zu Materialien - Vergabe von UVs - Überblick zu Texture Painting <p></p> Hausaufgabe: Zuweisen von Materialien (und optional auch von Texturen) zu Modellen der eigenen Küche |
 |  |  | Fokus: Animation von Einrichtungsgegenständen (siehe Semester-Projekt) <p></p> Themen: Lichtquellen und Schatten - Ambient Oclusion (kurz AO) backen - <b>Textur-Animation in Unity</b> - Rigging - Keyframe Animation (Forwärts und Inverse Kinematik) - Blend Shapes und Morphing Targets <p></p> Hausaufgabe: Weitere Animationen in der Küche integrieren und Beleuchtung verfeinern |
 |  |  | Fokus: Modell-Optimierung <p></p> Vertiefung in Sculpting - Themen: <b>Kurzer Ausflug in InstantMeshes</b> - Remesh Modifier - Decimate Modifier - Multiresolution Modifier <p></p> Hausaufgabe: Küche optimieren |
-|  |  | Fokus: Erstellen von Voxel Modellen <p></p> Themen: <b>Kurzer Ausflug in MagicaVoxel</b> - Import von MagicaVoxel Assets in Blender - Scripting - Erzeugen von Voxel Modellen in Blender <p></p> Hausaufgabe: keine |
+|  |  | Fokus: Erstellen von Voxel Modellen <p></p> Themen: <b>Kurzer Ausflug in MagicaVoxel</b> - Import von MagicaVoxel Assets in Blender - Scripting - Erzeugen von Voxel Modellen in Blender <p></p> Hausaufgabe: - |
 
 
 ## Weiterführende Informationen
