@@ -24,5 +24,4 @@ In diesem Abschnitt werden die Absichten der Lehrveranstaltung beschrieben.
 - Schaffung eines weiteren Netzwerkes rund um Dresden
 
 <b>Sekundär-Ziele</b>
-- Modellierung und Optimierung von 3D Assets für Spiele 
-    - Während des Semester-Projektes wird es also kurze Auflockerungen geben!
+- Modellierung und Optimierung von 3D Assets für Spiele
