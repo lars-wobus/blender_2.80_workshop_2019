@@ -39,3 +39,7 @@ In diesem Abschnitt soll eine Liste von Tools gepflegt werden, welche 3D Artists
 - [Godot](https://godotengine.org/)
 - [PlayCanvas](https://playcanvas.com/)
 - [ThreeJS](https://threejs.org/)
+
+## Versionierung
+- [Perforce](https://www.perforce.com/)
+- [TortoiseSVN](https://tortoisesvn.net/index.de.html)
