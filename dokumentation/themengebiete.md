@@ -9,7 +9,7 @@
 
 # Themengebiete
 
-In diesem Abschnitt werden spezifische Aufgabenbereiche und Schwerpunkte für angehende 3D Artists aufgelistet.
+In diesem Abschnitt werden spezifische Aufgabenbereiche und Schwerpunkte für angehende 3D Artists aufgelistet. Auch diese Liste ist ehern als Checkliste für den Tutor zu verstehen, anstatt als Nachschlagewerk für Kursteilnehmer.
 
 ## Projekt-Organisation
 - Festlegen einer einheitlichen Namenskonvention
