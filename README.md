@@ -40,7 +40,7 @@ In diesem Abschnitt werden alle notwendigen Maßnahmen beschrieben, die jeder Te
 
 ## Veranstaltungshinweise
 - Der voraussichtliche Veranstaltungsort ist die Bereichsbibliothek DrePunct, Zellescher Weg 17, 01069 Dresden!
-- Die Lehrveranstaltung wird in deutsch gehalten! Gegebenenfalls ließe sich das ein oder andere aber auch in Englisch besprechen.
+- Die Lehrveranstaltung wird in deutsch gehalten!
 - Es ist geplant, dass alle Themen bis Weihnachten besprochen werden, sodass es zu keinen oder nur wenigen Konflikten mit Prüfungszeiten der Studenten kommt. Dies liegt allerdings sowohl an der Bereitschaft der Studenten sowie dem Fortschritt der gesamten Gruppe.
 - Themen die außerhalb von Blender stattfinden sind in der nachfolgenden Tabelle fett hervorgehoben!
 - Themen die zu einem Termin nicht besprochen werden konnten, werden zu Beginn des nächsten Termins diskutiert!
