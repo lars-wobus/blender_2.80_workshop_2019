@@ -27,5 +27,5 @@ Die Anwendung von Software zur Datei-Versionierung soll weitere Eindrücke in da
 - Aktuellen Zustand von Datei(en) festschreiben: `git commit`
 - Herunterladen des letzten Standes aus dem Online-Repository: `git pull`
 - Hochladen von Änderungen in das Online-Repository: `git push`
-- Datei auf den letzten versionierten Stand zurücksetzen: `git checkout <Relativer Pfad>`
-- Alle Dateien im aktuellen Ordner sowie den Unterordnern auf ihre letzten versionierten Stände zurücksetzen: `git checkout .`
+- Geänderte Datei auf den letzten versionierten Stand zurücksetzen: `git checkout <Relativer Pfad>`
+- Alle geänderten Dateien im aktuellen Ordner sowie den Unterordnern auf ihre letzten versionierten Stände zurücksetzen: `git checkout .`
