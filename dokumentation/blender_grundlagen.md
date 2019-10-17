@@ -14,6 +14,16 @@ Dieser Abschnitt ist primär als Checkliste zu verstehen. Sie entält alle wicht
 ## Tipps
 - Große Modelle führen Blender an seine Grenzen. Modus- oder Layout-Wechsel können mitunter zu Abstürzen führen!
 
+## Notation
+In den nachfolgenden Abschnitten werden folgende Sonderzeichen verwendet
+- Das + Symbol deutet an, dass 2 oder mehr Aktionen gleichzeitig gedrückt/ausgeführt werden müssen
+- Das > Symbol wird dazu verwendet, um anzudeuten, dass eine Aktion innerhalb eines Dropdown-Menüs oder Untermenüs zu finden ist
+- Das , Symbol außerhalb von Klammern, wird dazu verwendet, um aufeinanderfolgende Aktionen voneinander zu trennen
+- Das : Symobl wird dazu verwendet, um Beschreibungen (links) von Aktionsfolgen (rechts) zu trennen
+- Spitze Klammern, wie z.B. <Relativer Pfad>, beschreiben Platzhalter
+- Runde Klammern, wie z.B. (<Kommentar>), beschreiben, in welchem Kontext bestimmte Aktionen ausführbar sind
+- Eckige Klammern, wie z.B. [<Aktion>, <Aktion>] beschreiben eine Reihe von Auswahlmöglichkeiten. Eine der erwähnten Aktionen ist dabei zu wählen, um das gewünschte Ergebnis zu erreichen
+
 ## Navigation
 - Linke Maustaste: Selektion
 - Mittlere Maustaste: Rotation
@@ -64,6 +74,13 @@ Dieser Abschnitt ist primär als Checkliste zu verstehen. Sie entält alle wicht
 - (Edit Mode) Select Edge Loops: Alt + Linke Maustaste
 - Zu existierender Menge selektierter Objekte hinzufügen: Shift gedrückt halten + \<Shortcut\>
 - Vertex Doubles entfernen (früher Remove Doubles): Mesh > Cleanup > Merge By Distance
+- Ein und Ausblenden von Objekten: (H) bzw. (Alt+H)
+- Origin verschieben
+    - (Edit Mode) Snap Vertices →Cursor to Selected
+    - (Object Mode) Set Origin → Origin to 3D 
+    - Shift + S → Cursor to Active oder Cursor to Selected
+    - Bsp.: Rotation, wenn Origin an Objekt-Ecke liegt
+    - Bsp.: Skalierung, wenn Origin an Objekt-Ecke liegt
 
 ## Perspektiven
 - User Perspective ↔ User Orthographic: 5
@@ -78,15 +95,6 @@ Dieser Abschnitt ist primär als Checkliste zu verstehen. Sie entält alle wicht
 - Pivot Point
 - Snap
 - Proportional Editing
-
-## Shortcuts
-- Ein und Ausblenden von Objekten: (H) bzw. (Alt+H)
-- Origin verschieben
-    - (Edit Mode) Snap Vertices →Cursor to Selected
-    - (Object Mode) Set Origin → Origin to 3D 
-    - Shift + S → Cursor to Active oder Cursor to Selected
-- Bsp.: Rotation, wenn Origin an Objekt-Ecke liegt
-- Bsp.: Skalierung, wenn Origin an Objekt-Ecke liegt
 
 ## Modes
 - Object Mode
