@@ -15,6 +15,7 @@ In diesem Abschnitt soll eine Liste von Tools gepflegt werden, welche 3D Artists
 - Voxel-Modellierungs-Tool: [MagicaVoxel](https://www.voxedit.io/?gclid=CjwKCAjwlovtBRBrEiwAG3XJ-xCjELkZ0AZqdccN5bo3RmNY8VDUpaLM8oh5oNRcVTH-T5AU9WhfFBoCSDUQAvD_BwE)
 - Tool zur verlustbehafteten Reduktion von Modellen: [Instant Meshes](https://github.com/wjakob/instant-meshes)
 - Kostenpflichtiges Tool zum Sculpting: [ZbrushCore](https://store.pixologic.com/de/zbrushcore-2018/)
+- Mech Generator für Blender: [Video](https://www.youtube.com/watch?v=gjehYrqT4as)
 
 ## Icons, Texturen und Materialien
 - Tool für Vektorgrafiken: [Inkscape](https://inkscape.org/de/)
