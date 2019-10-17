@@ -21,7 +21,6 @@ Dieser Abschnitt ist für all jene gedacht, die sich unabhängig von der Lehrver
 - [Tutorial: Low Poly Animals](https://www.youtube.com/watch?v=6mT4XFJYq-4)
 - [Tutorial: Low Poly Island](https://www.youtube.com/watch?v=0lj643VmTsg&t=814s)
 - [Tutorial: Sculpting](https://www.youtube.com/watch?v=tZnUgt659oI)
-- [Mech Generator](https://www.youtube.com/watch?v=gjehYrqT4as)
 
 ## Blender < 2.80
 
