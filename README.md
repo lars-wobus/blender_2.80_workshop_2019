@@ -36,7 +36,7 @@ In diesem Abschnitt werden alle notwendigen Maßnahmen beschrieben, die jeder Te
 
 ### Internet-Zugang
 - (Für Externe) Ein SLUB Benutzer-Account wird benötigt, um über VPN das Wlan in der SLUB sowie dem DrePunct benutzen zu können.
-- (Für Studenten) Mithilfe der Studentennummer kann man sich auch über eduroam einklinken.
+- (Für Studenten) Studenten können sich über eduroam mit ihrer Studentennummer einklicken
 
 ## Veranstaltungshinweise
 - Der voraussichtliche Veranstaltungsort ist die Bereichsbibliothek DrePunct, Zellescher Weg 17, 01069 Dresden!
