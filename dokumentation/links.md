@@ -14,6 +14,7 @@ Dieser Abschnitt ist für all jene gedacht, die sich unabhängig von der Lehrver
 ## Allgemeines
 
 - [DreamWorks Animation Pipeline](https://www.youtube.com/watch?v=5CbG0d_tnSg&list=PLuNahFhjP4XhCzNmZvWiN0tG5MhEQMAtn)
+- [World Building in Blender](https://www.youtube.com/watch?v=whPWKecazgM)
 
 ## Blender 2.80
 
