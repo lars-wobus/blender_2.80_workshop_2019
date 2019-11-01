@@ -15,6 +15,7 @@ Dieser Abschnitt ist für all jene gedacht, die sich unabhängig von der Lehrver
 
 - [DreamWorks Animation Pipeline](https://www.youtube.com/watch?v=5CbG0d_tnSg&list=PLuNahFhjP4XhCzNmZvWiN0tG5MhEQMAtn)
 - [World Building in Blender](https://www.youtube.com/watch?v=whPWKecazgM)
+- [Habits of Effective Artists](https://www.youtube.com/watch?v=vM39qhXle4g)
 
 ## Blender 2.80
 
