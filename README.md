@@ -10,6 +10,7 @@ Home
 | [Themengebiete](./dokumentation/themengebiete.md)
 | [Liste zu modellierender Assets](./dokumentation/asset_liste.md)
 | [Weitere Tools](./dokumentation/tools.md)
+| [Links](./dokumentation/links.md)
 
 # Workshop: Blender 2.80
 
