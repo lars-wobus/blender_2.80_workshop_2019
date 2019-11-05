@@ -1,3 +1,8 @@
+```diff
+- Momentan wird das Projekt noch begutachtet.
+- Der Start des Workshops wird daher bis auf Weiteres verschoben!
+```
+
 Home
 | [Veranstaltungsziele](./dokumentation/veranstaltungsziele.md)
 | [Git Grundlagen](./dokumentation/git_grundlagen.md)
@@ -44,14 +49,14 @@ In diesem Abschnitt werden alle notwendigen Maßnahmen beschrieben, die jeder Te
 - Es ist geplant, dass alle Themen bis Weihnachten besprochen werden, sodass es zu keinen oder nur wenigen Konflikten mit Prüfungszeiten der Studenten kommt. Dies liegt allerdings sowohl an der Bereitschaft der Studenten sowie dem Fortschritt der gesamten Gruppe.
 - Themen die außerhalb von Blender stattfinden sind in der nachfolgenden Tabelle fett hervorgehoben!
 - Themen die zu einem Termin nicht besprochen werden konnten, werden zu Beginn des nächsten Termins diskutiert!
-- Zu jedem Termin, wird es, in diesem Repository, eine vorbereitete .blend-Datei der Küche geben, sodass ein späterer Einstieg möglich ist. Zuhörer der ersten Stunde, sollten idealerweise an ihren eigenen Küchen weiter arbeiten.
+- Zu jedem Termin, wird es in diesem Repository vorbereitete .blend-Dateien geben, sodass ein späterer Einstieg möglich ist. Zuhörer der ersten Stunde, sollten idealerweise an ihren eigenen Modellen weiter arbeiten.
 - Womöglich wird Unity noch durch Godot ersetzt, da die Installation weniger Zeit benötigt.
 
 ## Veranstaltungstermine
 
 | Datum         | Zeit  | Inhalt |
 | ------------- | ----- | ----- |
-| XX. Okt. 2019 | 00:00 | Fokus: Beginn des Semester-Projektes <p></p> Themen: Kurzes Kennenlernen - Grundlegende Navigation in Blender - Gemeinsames Aktivieren weiterer Blender Einstellungen - Primäre Shortcuts - Erstellen und manipulieren primitiver Objekte - Normalen - Shading - Extrusion - Loop Cuts - Bevel Edges - Bevel Modifier - Erstellen von Materialien - Grayboxing - <b>Einführung in Git</b> - <b>Zweck der .gitattributes Datei</b> <p></p> Hausaufgabe: Umriss der eigenen Küche mittels weiterer Platzhalter-Objekte verfeinern |
+|  |  | Fokus: Beginn des Semester-Projektes <p></p> Themen: Kurzes Kennenlernen - Grundlegende Navigation in Blender - Gemeinsames Aktivieren weiterer Blender Einstellungen - Primäre Shortcuts - Erstellen und manipulieren primitiver Objekte - Normalen - Shading - Extrusion - Loop Cuts - Bevel Edges - Bevel Modifier - Erstellen von Materialien - Grayboxing - <b>Einführung in Git</b> - <b>Zweck der .gitattributes Datei</b> <p></p> Hausaufgabe: Umriss der eigenen Küche mittels weiterer Platzhalter-Objekte verfeinern |
 |  |  | Fokus: Modellieren von LowPoly Tieren <p></p> Themen: Einheitliche Objekt Benennung - Importieren von Referenz-Bildern - Wechseln der Perspektive - Nachziehen von Formen - Boolean Modifier - Array Modifier - Subdivision Surface Modifier - Kreise ausschneiden - Vorteil von LoopTools - Kitbashing - Modell-Export und -Import</b> <p></p> Hausaufgabe: Platzhalter-Objekte in der eigenen Küche ersetzen |
 |  |  | Fokus: Modellieren eines Fantasy-Hammers <p></p> Themen: <b>Kurzer Ausflug in Inkscape</b> - Import und Extrusion von SVG Grafiken - Extrusion von Text - Überblick zu Splines - Überblick zu MetaBalls - Überblick zu Sculpting - Weiteres zu Materialien - Vergabe von UVs - Überblick zu Texture Painting <p></p> Hausaufgabe: Zuweisen von Materialien (und optional auch von Texturen) zu Modellen der eigenen Küche |
 |  |  | Fokus: Animation von Einrichtungsgegenständen (siehe Semester-Projekt) <p></p> Themen: Lichtquellen und Schatten - Ambient Oclusion (kurz AO) backen - <b>Textur-Animation in Unity</b> - Rigging - Keyframe Animation (Forwärts und Inverse Kinematik) - Blend Shapes und Morphing Targets <p></p> Hausaufgabe: Weitere Animationen in der Küche integrieren und Beleuchtung verfeinern |
