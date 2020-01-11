@@ -34,3 +34,6 @@ Dieser Abschnitt ist für all jene gedacht, die sich unabhängig von der Lehrver
 ## Discord
 
 - [Einladung zum 3m5.GameJam Discord Server](https://discordapp.com/invite/K5hsaYR)
+
+## Weitere Quellen
+- [CGCOOKIE](https://cgcookie.com/)
