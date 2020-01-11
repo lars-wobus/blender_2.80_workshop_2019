@@ -16,6 +16,7 @@ Dieser Abschnitt ist für all jene gedacht, die sich unabhängig von der Lehrver
 - [DreamWorks Animation Pipeline](https://www.youtube.com/watch?v=5CbG0d_tnSg&list=PLuNahFhjP4XhCzNmZvWiN0tG5MhEQMAtn)
 - [World Building in Blender](https://www.youtube.com/watch?v=whPWKecazgM)
 - [Habits of Effective Artists](https://www.youtube.com/watch?v=vM39qhXle4g)
+- [Blender Tutorials von CGCOOKIE](https://cgcookie.com/)
 
 ## Blender 2.80
 
@@ -35,5 +36,15 @@ Dieser Abschnitt ist für all jene gedacht, die sich unabhängig von der Lehrver
 
 - [Einladung zum 3m5.GameJam Discord Server](https://discordapp.com/invite/K5hsaYR)
 
-## Weitere Quellen
-- [CGCOOKIE](https://cgcookie.com/)
+## CCO Texturen
+- [Texture Haven](https://texturehaven.com/)
+- [sharetextures](https://www.sharetextures.com/)
+- [CC0 Textures](https://cc0textures.com/)
+- [cgbookcase](https://www.cgbookcase.com/)
+- [3D Textures](https://3dtextures.me/about/)
+
+## CC0 HDRI
+- [HDRI Haven](https://hdrihaven.com/)
+
+## Bilder für andere Zwecke
+- [FFCU](https://freeforcommercialuse.net/)
