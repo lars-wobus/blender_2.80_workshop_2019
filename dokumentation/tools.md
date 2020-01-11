@@ -53,3 +53,6 @@ In diesem Abschnitt soll eine Liste von Tools gepflegt werden, welche 3D Artists
 
 ## CC0 HDRI
 - [HDRI Haven](https://hdrihaven.com/)
+
+## Bilder für andere Zwecke
+- [FFCU](https://freeforcommercialuse.net/)
