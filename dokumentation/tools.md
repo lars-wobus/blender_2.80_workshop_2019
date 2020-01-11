@@ -48,3 +48,7 @@ In diesem Abschnitt soll eine Liste von Tools gepflegt werden, welche 3D Artists
 - [Texture Haven](https://texturehaven.com/)
 - [sharetextures](https://www.sharetextures.com/)
 - [CC0 Textures](https://cc0textures.com/)
+- [cgbookcase](https://www.cgbookcase.com/)
+
+## CC0 HDRI
+- [HDRI Haven](https://hdrihaven.com/)
