@@ -43,3 +43,8 @@ In diesem Abschnitt soll eine Liste von Tools gepflegt werden, welche 3D Artists
 ## Versionierung
 - [Perforce](https://www.perforce.com/)
 - [TortoiseSVN](https://tortoisesvn.net/index.de.html)
+
+## CCO Texturen
+- [Texture Haven](https://texturehaven.com/)
+- [sharetextures](https://www.sharetextures.com/)
+- [CC0 Textures](https://cc0textures.com/)
