@@ -31,6 +31,11 @@ Dieser Abschnitt ist für all jene gedacht, die sich unabhängig von der Lehrver
 - [Blender Guru](https://www.blenderguru.com/tutorials) mit [Creating an Anvil](https://www.blenderguru.com/tutorials/2018/1/17/creating-an-anvil-full-series) is besonders einsteigerfreundlich
 - [Timelaps: Low Poly Wolf](https://www.youtube.com/watch?v=4rIEUv_Tiv4)
 - [Tutorial: Low Poly Elephant](https://www.youtube.com/watch?v=JjW6r10Mlqs)
+
+## 
+[Video: Favorisierter Weg zu glatten, gebogene Oberflächen](https://www.youtube.com/watch?v=q4EwSbjKcIc)
+[Video: Verschiedene Wege zu glatten, gebogenen Oberflächen](https://www.youtube.com/watch?v=rZiiDjcQhHM)
+[Video: Biegen mittels Einsatz von Kurven](https://www.youtube.com/watch?v=kbUy4OVz4M0)
     
 ## Discord
 
