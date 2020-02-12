@@ -16,6 +16,7 @@ In diesem Abschnitt soll eine Liste von Tools gepflegt werden, welche 3D Artists
 - Tool zur verlustbehafteten Reduktion von Modellen: [Instant Meshes](https://github.com/wjakob/instant-meshes)
 - Kostenpflichtiges Tool zum Sculpting: [ZbrushCore](https://store.pixologic.com/de/zbrushcore-2018/)
 - Mech Generator für Blender: [Video](https://www.youtube.com/watch?v=gjehYrqT4as)
+- Video zum World Map Generator [TerreSculptor](https://www.youtube.com/watch?v=BrI3i5FfmLc)
 
 ## Icons, Texturen und Materialien
 - Tool für Vektorgrafiken: [Inkscape](https://inkscape.org/de/)
